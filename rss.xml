@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tamara Alexis Photography]]></title>
         <description><![CDATA[Tamara Alexis Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tamara-alexis-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 21:44:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 21:46:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tamara-alexis-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d9915cf-c6c7-4d11-8cd1-c5c4718d33b0.jpg">]]></description>
+            <link>https://thegrid.ai/tamara-alexis-photography/665f14b9-e70d-46fa-a6d4-4a69b091361c/index.html</link>
+            <guid isPermaLink="false">665f14b9-e70d-46fa-a6d4-4a69b091361c</guid>
+            <pubDate>Sun, 20 Mar 2016 21:45:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e21e1a33-79c9-49c7-96b9-41f7e5204476.jpg">]]></description>
-            <link>undefined4e733ead-29f9-4abe-839a-5476ef57b9d5/index.html</link>
+            <link>https://thegrid.ai/tamara-alexis-photography/4e733ead-29f9-4abe-839a-5476ef57b9d5/index.html</link>
             <guid isPermaLink="false">4e733ead-29f9-4abe-839a-5476ef57b9d5</guid>
             <pubDate>Sun, 20 Mar 2016 21:44:50 GMT</pubDate>
         </item>
