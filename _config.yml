@@ -1,0 +1,28 @@
+name: Tamara Alexis Photography
+favicon: null
+layout_spectrum: 0.7153629609383643
+typography_spectrum: 0.07132664578966796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0888492411468178
+  lightness: 0.7447941561695188
+  saturation: 0.4347691833972931
+  rhythmicContrast: 0.08415152644738555
+purpose: []
